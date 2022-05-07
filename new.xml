@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>Сергей</name>
+  <firstName>Сергей</firstName>
+  <lastName>Карабеков</lastName>
+  <age>36</age>
+  <pet>нет</pet>
+  <income>от 50 тысяч</income>
+</root>
