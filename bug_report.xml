@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bugReport>
+  <Name>Дверь00ё</Name>
+  <Description>Дверь не открывается</Description>
+  <Steps>Подойти к двери</Steps>
+  <Steps>Повернуть ручку</Steps>
+  <Steps>Открыть дверь</Steps>
+  <Expected_result>Дверь откроется</Expected_result>
+  <Result>Дверь не открывается</Result>
+  <Severity>Критичный</Severity>
+  <Priority>Высокий</Priority>
+</bugReport>
